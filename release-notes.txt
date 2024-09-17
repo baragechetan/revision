@@ -9,3 +9,5 @@ my release notes for v4
 my release notes for v5
 
 my release notes for v6
+
+my release notes for v7
