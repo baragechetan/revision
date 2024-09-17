@@ -1,1 +1,3 @@
 my releases notes for v1
+
+my releases notes for v2
